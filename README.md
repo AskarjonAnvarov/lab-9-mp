@@ -1,7 +1,7 @@
 # Lab 9: Advanced UI Design Techniques
 
 ## Author
-Abdusamad Nigmatov (220063)
+Asqarjon Anvarov (220050)
 
 ## Project Structure
 ```
